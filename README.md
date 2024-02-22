@@ -12,7 +12,7 @@
 
 <div align='center'>
 
-  [![codewars](https://www.codewars.com/users/GeniiKirikonius/badges/large)](https://www.codewars.com/users/GeniiKirikonius)
+  [![codewars](https://www.codewars.com/users/KirillSergeyuk/badges/large)](https://www.codewars.com/users/KirillSergeyuk)
 
 </div>
 
