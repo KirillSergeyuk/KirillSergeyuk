@@ -42,6 +42,8 @@
 
 ## Projects
 
+[QuadraticEquations](https://github.com/KirillSergeyuk/QuadraticEquations) - Calculator for calculating quadratic equations
+
 Here you will find my Java related projects:
 
 
