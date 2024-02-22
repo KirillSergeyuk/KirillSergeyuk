@@ -42,7 +42,7 @@
 
 ## Projects
 
-Here you will find my Python related projects:
+Here you will find my Java related projects:
 
 
 ## Let's Connect
