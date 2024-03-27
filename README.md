@@ -44,6 +44,10 @@
 
 [QuadraticEquations](https://github.com/KirillSergeyuk/QuadraticEquations) - Calculator for calculating quadratic equations
 
+[TIcTacToe](https://github.com/KirillSergeyuk/TicTacToe) - game - "TicTacToe"
+
+[Sapper](https://github.com/KirillSergeyuk/Sapper) - game "Sapper"
+
 Here you will find my Java related projects:
 
 
